@@ -1,25 +1,26 @@
 .navbar {
     overflow: visible;
-    background-color: #333;
+    background-color: #acbbce;
     max-width: 800px;
     margin: auto;
     border-radius: 5px;
-    height: 73px;
+    height: 50px;
     margin-top: 10px;
     padding-top: 0px;
-    /* position: sticky; 
+    position: sticky; 
     top: 0; 
     z-index: 1000; 
-    transition: top 0.3s;  */
+    transition: top 0.3s; 
   }
   
   .navbar a {
     float: left;
-    font-size: 22px;
+    font-size: 15px;
     color: white;
     text-align: center;
     padding: 15px 40px;
     text-decoration: none;
+    font-weight: bold;
   }
   
   .subnav {
@@ -29,7 +30,8 @@
   }
   
   .subnav .subnavbtn {
-    font-size: 22px;  
+    font-size: 15px;  
+    font-weight: bold;
     border: none;
     outline: none;
     color: white;
@@ -40,7 +42,7 @@
   }
   
   .navbar a:hover, .subnav:hover .subnavbtn {
-    background-color: rgb(146, 139, 139);
+    background-color: #aeb7b9;
     border-radius: 5px;
   }
   
@@ -48,7 +50,7 @@
     display: none;
     position: absolute;
     left: 0;
-    background-color:rgb(146, 139, 139);
+    background-color:rgb(121, 148, 180);
     width: 100%;
     z-index: 1;
     border-radius: 5px;
@@ -58,12 +60,11 @@
     float: left;
     color: white;
     text-decoration: none;
-    font-size: 18px
+    font-size: 13px
   }
   
   .subnav-content a:hover {
-    background-color: #eee;
-    color: black;
+    background-color: #aeb7b9;
   }
   
   .subnav:hover .subnav-content {
