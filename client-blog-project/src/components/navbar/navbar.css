@@ -1,0 +1,71 @@
+.navbar {
+    overflow: visible;
+    background-color: #333;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 5px;
+    height: 73px;
+    margin-top: 10px;
+    padding-top: 0px;
+    /* position: sticky; 
+    top: 0; 
+    z-index: 1000; 
+    transition: top 0.3s;  */
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    padding: 15px 40px;
+    text-decoration: none;
+  }
+  
+  .subnav {
+    float: left;
+    overflow: hidden;
+    border-radius: 5px;
+  }
+  
+  .subnav .subnavbtn {
+    font-size: 22px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: rgb(146, 139, 139);
+    border-radius: 5px;
+  }
+  
+  .subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color:rgb(146, 139, 139);
+    width: 100%;
+    z-index: 1;
+    border-radius: 5px;
+  }
+  
+  .subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+    font-size: 18px
+  }
+  
+  .subnav-content a:hover {
+    background-color: #eee;
+    color: black;
+  }
+  
+  .subnav:hover .subnav-content {
+    display: block;
+  }

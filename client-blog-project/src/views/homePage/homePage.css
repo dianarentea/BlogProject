@@ -1,0 +1,26 @@
+.container{
+  padding-top: 30px;
+}
+.slideshow-container {
+  margin: 20px auto;
+  max-width: 1200px;
+  height: 250px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.title p{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 20px;
+  font-size: 30px;
+  color:  linear-gradient(rgba(127, 196, 223, 0.5), rgba(78, 111, 219, 0.5));
+}
+hr{
+  width: 600px;
+  height: 2px;
+  background-color: #333;
+  margin: 20px auto;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
