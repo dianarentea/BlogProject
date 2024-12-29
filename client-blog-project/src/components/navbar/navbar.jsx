@@ -4,33 +4,24 @@ import './navbar.css';
 const Navbar = () => {
     return (
         <div className="navbar">
-        <a href="#home">Home</a>
+        <a href="/">Home</a>
         <div className="subnav">
-          <button className="subnavbtn">About <i className="fa fa-caret-down"></i></button>
+          <button className="subnavbtn">Blog <i className="fa fa-caret-down"></i></button>
           <div className="subnav-content">
-            <a href="#company">Company</a>
-            <a href="#team">Team</a>
-            <a href="#careers">Careers</a>
+            <a href="#company">Mountains</a>
+            <a href="#team">Cities</a>
+            <a href="#careers">Culture</a>
           </div>
         </div> 
         <div className="subnav">
-          <button className="subnavbtn">Services <i className="fa fa-caret-down"></i></button>
+          <button className="subnavbtn">Articles <i className="fa fa-caret-down"></i></button>
           <div className="subnav-content">
-            <a href="#bring">Bring</a>
-            <a href="#deliver">Deliver</a>
-            <a href="#package">Package</a>
-            <a href="#express">Express</a>
+            <a href="/articles">Articles</a>
+            <a href="#deliver">By me</a>
+            <a href="#package">People's experience</a>
           </div>
         </div> 
-        <div className="subnav">
-          <button className="subnavbtn">Partners <i className="fa fa-caret-down"></i></button>
-          <div className="subnav-content">
-            <a href="#link1">Link 1</a>
-            <a href="#link2">Link 2</a>
-            <a href="#link3">Link 3</a>
-            <a href="#link4">Link 4</a>
-          </div>
-        </div>
+        <a href="#contact">About</a>
         <a href="#contact">Contact</a>
       </div>
     );

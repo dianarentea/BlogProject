@@ -7,14 +7,14 @@ const HomePage = () => {
   return (
     <div className="container">
 
-      <div className="slideshow-container">
-        <Slideshow/>
-      </div>
-
       <div className="title">
         <p>Mountain's lovers blog</p>
       </div>
       <hr/>
+
+      <div className="slideshow-container">
+        <Slideshow/>
+      </div>
 
       <Navbar/>
 

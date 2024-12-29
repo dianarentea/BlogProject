@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { HomePage, AboutPage } from "@views";
+import { HomePage, AboutPage, ArticlePage } from "@views";
 
 function App() {
 
@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />
+        <Route path="/articles" element={<ArticlePage />} />
       </Routes>
     </Router>
   );
