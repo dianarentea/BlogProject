@@ -1,4 +1,4 @@
-import AboutPage from './AboutPage.jsx';
+import AboutPage from './aboutPage/aboutPage.jsx';
 import HomePage from './homePage/homePage.jsx';
 import ArticlePage from './article/articlePage.jsx';
 

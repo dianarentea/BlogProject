@@ -1,5 +1,4 @@
 import React from 'react';
-import articleImage from '../../assets/card/c3.jpg';
 import { Article, Navbar, Slideshow } from '@components';
 import "../homePage/homePage.css";
 
@@ -14,6 +13,8 @@ const ArticlePage = () => {
              <Navbar/>
 
             <div className='article-container'>
+            <Article />
+            <Article />
             <Article />
             </div>
         </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import "./card-reverse.css";
-import mountainImage from "../../assets/card/c1.jpg";
+import mountainImage from "../../assets/card/c2.jpg";
 
 
 

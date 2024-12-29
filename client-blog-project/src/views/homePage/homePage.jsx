@@ -1,5 +1,5 @@
 import React from 'react';
-import { Slideshow, Navbar, Card } from "@components";
+import { Slideshow, Navbar, Card, Article, About } from "@components";
 import "./homePage.css";
 import { CardReverse } from '../../components';
 
@@ -29,16 +29,17 @@ const HomePage = () => {
           <div className="col">
             <Card />
           </div>
-          <div className="col">
-            <div className="about-container">
-              About Me
-            </div>
-          </div>
         </div>
       </div>
 
       <div className="articles-container">
-        Articles
+        <h1>Articles...</h1>
+        <Article />
+      </div>
+      
+      <div className="footer">
+      <hr/>
+        <About/>
       </div>
 
     </div>
