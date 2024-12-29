@@ -1,5 +1,5 @@
 import React from 'react';
-import { Article, Navbar, Slideshow } from '@components';
+import { ArticleList, Navbar, Slideshow } from '@components';
 import "../homePage/homePage.css";
 
 const ArticlePage = () => {
@@ -13,9 +13,7 @@ const ArticlePage = () => {
              <Navbar/>
 
             <div className='article-container'>
-            <Article />
-            <Article />
-            <Article />
+                <ArticleList/>
             </div>
         </div>
        

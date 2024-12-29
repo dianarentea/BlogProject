@@ -30,7 +30,7 @@
     color: #6a7985;
     font-weight: bold;
     font-style: italic;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 p{
     line-height: 2;
@@ -38,6 +38,7 @@ p{
     font-size: 20px;
     overflow-wrap: break-word;
     text-align: justify;
+    font-family: Lucida Sans;
 }
 span{
     font-style: italic;

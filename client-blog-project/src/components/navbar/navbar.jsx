@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
         </div> 
         <a href="/about">About</a>
-        <a href="#contact">Contact</a>
+        <a href="/newsletter">Newsletter</a>
       </div>
     );
 };
