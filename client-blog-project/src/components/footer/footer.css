@@ -1,0 +1,17 @@
+footer .container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    flex-direction: column; 
+}
+footer{
+    margin-top: 50px;
+}
+
+footer .mb-4 {
+    display: flex;
+    justify-content: center; 
+    gap: 15px;              
+    margin-bottom: 20px;    
+}
+

@@ -6,14 +6,13 @@ const About = () => {
     return (
         <div className="container">
             <div className="about-title">
-            <h1>About</h1>
             </div>
             <div className="about-image">
                 <img src={aboutImage} alt="about" />
             </div>
 
             <div className="about-text">
-                <h2>Who I am?</h2>
+                <h2>Who am I?</h2>
                 <p>
                     Hello, I am Diana-Andreea Rențea, a passionate traveler and nature lover.
                     I am a freelance writer and photographer, and I love to explore the world

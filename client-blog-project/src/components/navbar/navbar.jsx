@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="subnav">
           <button className="subnavbtn">Blog <i className="fa fa-caret-down"></i></button>
           <div className="subnav-content">
-            <a href="#company">Mountains</a>
+            <a href="/mountains">Mountains</a>
             <a href="#team">Cities</a>
             <a href="#careers">Culture</a>
           </div>

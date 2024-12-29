@@ -19,6 +19,18 @@ app.get("/articles", (req, res) => {
     }
   });
 });
+
+app.get("/mountains", (req, res) => {
+  fs.readFile("./data/mountains.json", (err, data) => {
+    if (err) {
+      res.status(500).send("An error occurred while reading mountains file");
+    } else {
+      const mountains = JSON.parse(data);
+      res.send(mountains);
+    }
+  });
+});
+
   
 app.listen(5000, () => {
   console.log(`Server listening on ${5000}`);

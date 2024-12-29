@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Munții Bucegi",
+        "subtitle": "Răsărit de soare la Refugiul Țigănești",
+        "author": "Diana Rențea",
+        "date" : "Oct-29-2024",
+        "image" : "/assets/images/f1.jpg",
+        "content": "Răsăriturile de soare de la Refugiul Țigănești oferă o experiență de neuitat, un spectacol al naturii care îți taie respirația. În primele ore ale dimineții, când soarele își face timid apariția de după crestele Munților Bucegi, întreaga vale este scăldată într-o lumină caldă și aurie. Norii care plutesc jos în depărtare se colorează în nuanțe de roz, portocaliu și violet, creând un peisaj aproape suprarealist. "
+    },
+    {
+        "id": 2,
+        "title": "Piatra Craiului",
+        "subtitle": "Trasee spectaculoase și aventuri de neuitat",
+        "author": "Ioana Popescu",
+        "date" : "Jul-5-2024",
+        "image" : "/assets/images/f2.jpg",
+        "content": "Muntii Piatra Craiului oferă priveliști spectaculoase, trasee spectaculoase și aventuri de neuitat. Aici, natura este într-o simbioză perfectă cu omul, iar peisajele sunt de-a dreptul spectaculoase. În fiecare an, mii de turiști vin aici pentru a se bucura de frumusețea acestor locuri și pentru a se aventura pe traseele montane care le străbat."
+    },
+    {
+        "id": 3,
+        "title": "Munții Făgăraș",
+        "subtitle": "Trasee montane pentru toate nivelurile de experienta si conditie fizica. ",
+        "author": "Andrei Ionescu",
+        "date" : "Aug-12-2023",
+        "image" : "/assets/images/f3.jpg",
+        "content": "Munții Făgăraș sunt cunoscuți pentru traseele montane spectaculoase, care oferă peisaje deosebite și oportunități de aventură pentru toate nivelurile de experiență și condiție fizică. Aici, turiștii pot alege dintr-o varietate de trasee, de la cele ușoare, care se pot parcurge într-o zi, până la cele mai dificile, care necesită mai multe zile de mers pe jos."
+    },
+    {
+        "id": 4,
+        "title": "Munții Ciucas",
+        "subtitle": "Peisaje de basm și aventuri de neuitat",
+        "author": "Maria Popa",
+        "date" : "Jun-20-2023",
+        "image" : "/assets/images/f4.jpg",
+        "content" : "Muntii Ciucas sunt cunoscuți pentru peisajele lor de basm și aventurile de neuitat pe care le oferă. Aici, turiștii pot explora trasee montane spectaculoase, pot admira flora și fauna bogată a zonei și se pot bucura de priveliști deosebite. Munții Ciucas sunt un loc perfect pentru cei care doresc să se relaxeze în natură și să se bucure de frumusețea peisajelor montane."
+
+    }
+]

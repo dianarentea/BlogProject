@@ -1,0 +1,71 @@
+.mountain-container {
+    gap: 20px; 
+    width: 100%;
+    height: 700px;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.mountain-image{
+    width: 100%;
+    height: 400px;
+    padding: 0;
+}
+.mountain-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.mountain-text {
+    width: 100%;
+    text-align: center;
+}
+.mountain-title h1{
+    letter-spacing: 1px;
+    line-height: 1.1;
+    font-weight: 550;
+    font-size: 40px;
+    text-align: left;
+    text-transform: none;
+    margin-top: 0;
+    font-family: Georgia;
+    padding-top: 10px;
+}
+.mountain-title h2{
+    font-size: 20px;
+    color: #646464;
+    margin-top: 10px;
+    text-align: left;
+}
+.mountain-title span{
+    font-size: 13px;
+    color: #000000;
+    margin: 5px 0;
+    padding-top: -10px;
+    text-align: left;
+}
+.mountain-content{
+    line-height: 2;
+    margin: 30px 0 0;
+    font-size: 19px;
+    overflow-wrap: break-word;
+    text-align: justify;
+    font-family: Georgia;
+}
+
+@media (max-width: 768px) {
+    .mountain-container {
+        flex-direction: column; /* Rearanjează elementele pe verticală pentru ecrane mici */
+    }
+
+    .mountain-image {
+        width: 100%; /* Imaginea va ocupa lățimea completă */
+        height: auto;
+    }
+
+    .mountain-text {
+        width: 100%; /* Textul se aliniază complet sub imagine */
+    }
+}
