@@ -1,7 +1,9 @@
 import React from 'react';
-import { Slideshow, Navbar, Card, ArticleList, About, Footer } from "@components";
+import { Slideshow, Navbar, Card, ArticleList, About, Footer, CardReverse } from "@components";
 import "./homePage.css";
-import { CardReverse } from '../../components';
+import mountainImage1 from "../../assets/card/c1.jpg";
+import mountainImage2 from "../../assets/card/c2.jpg";
+import mountainImage3 from "../../assets/card/c3.jpg";
 
 const HomePage = () => {
   return (
@@ -22,13 +24,13 @@ const HomePage = () => {
         <div className="card-container">
           <div className="row">
             <div className="col">
-              <Card />
+              <Card title="Sir Edmund Hillary" description="'Is not the mountain we conquer, but ourselves.'" image={mountainImage1}/>
             </div>
             <div className="col">
-              <CardReverse />    
+              <CardReverse title="Greg Child" description="'Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.'" image={mountainImage3} />    
             </div>
             <div className="col">
-              <Card />
+              <Card title="Reinhold Messner" description="'Mountains are not unfair, they are just dangerous'" image={mountainImage2}/>
             </div>
           </div>
         </div>

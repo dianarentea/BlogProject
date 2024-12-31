@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { HomePage, AboutPage, ArticlePage, MountainPage, NewsletterPage, ArticleDetailedPage } from "@views";
+import { HomePage, AboutPage, ArticlePage, MountainPage, NewsletterPage, ArticleDetailedPage, YourStoryPage } from "@views";
 
 function App() {
 
@@ -13,6 +13,7 @@ function App() {
         <Route path="/article/:id" element={<ArticleDetailedPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/newsletter" element={<NewsletterPage />} />
+        <Route path="/yourStory" element={<YourStoryPage />} />
       </Routes>
     </Router>
   );

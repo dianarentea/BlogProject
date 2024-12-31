@@ -12,7 +12,9 @@ const MountainPage = () => {
                 </div>
     
                  <Navbar/>
-    
+                 <hr/>
+
+                <div className="title">Mountains</div>
                 <div className='mountain-container'>
                     <MountainList/>
                 </div>

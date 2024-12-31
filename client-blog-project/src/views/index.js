@@ -4,5 +4,6 @@ import MountainPage from './mountainPage/mountainPage.jsx';
 import ArticlePage from './articlePage/articlePage.jsx';
 import ArticleDetailedPage from './articleDetailedPage/articleDetailedPage.jsx';
 import NewsletterPage from './newsletterPage/newsletterPage.jsx';
+import YourStoryPage from './yourStoryPage/yourStoryPage.jsx';
 
-export {AboutPage, HomePage, ArticlePage, NewsletterPage, MountainPage, ArticleDetailedPage };
+export {AboutPage, HomePage, ArticlePage, NewsletterPage, MountainPage, ArticleDetailedPage, YourStoryPage };

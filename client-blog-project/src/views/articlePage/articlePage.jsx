@@ -8,11 +8,11 @@ const ArticlePage = () => {
             <div className='container'>
 
                 <div className="slideshow-container">
-                        <Slideshow/>
+                    <Slideshow/>
                 </div>
 
                 <Navbar/>
-
+                <hr/> 
                 <div className='article-container'>
                     <ArticleList/>
                 </div>

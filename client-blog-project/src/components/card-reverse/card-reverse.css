@@ -17,12 +17,21 @@
     border-radius: 2px;
 }
 .card-text-reverse h2{
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     padding: 10px;
     font-weight: bold;
-    font-style: italic;
+    font-family: Georgia;
     text-transform: uppercase;
+}
+.card-text-reverse p{
+    font-size: 15px;
+    padding: 10px;
+    padding-bottom: 0px;
+    justify-content: center;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    background-color: #f0f0f0;
 }
 .card-text-reverse{
     font-size: 15px;

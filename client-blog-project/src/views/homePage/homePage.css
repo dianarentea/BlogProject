@@ -49,11 +49,13 @@ hr{
   padding: 10px;
 }
 h3{
-  font-family: Lucida Sans;
   font-size: 35px;
-  color: #3a5e7e;
   font-weight: bold;
   margin-top: 10px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Georgia;
 }
 .footer hr{
   width: 100%;

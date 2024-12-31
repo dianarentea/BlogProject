@@ -2,7 +2,6 @@ import React from "react";
 import { Navbar, Slideshow, Footer } from "@components";
 import "./newsletterPage.css";
 
-
 const NewsletterPage = () => {
     return (
         <div>
@@ -11,12 +10,15 @@ const NewsletterPage = () => {
                     <Slideshow />
                 </div>
                 <Navbar />
+                <hr/>
                 <div className="newsletter-container">
-                    <h3>Newsletter...</h3>
-                    <p>Subscribe to our newsletter to get the latest news and articles</p>
+                    <div className="text-container">
+                    <h1>Subscribe to our Newsletter</h1>
+                    <p>We do updates monthly with new tracks and experiences from people. If you want to be kept up to date, subscriber to our Newsletter and let on our side to notify you when it's something new ahead!</p>
+                    </div>
                     <form>
-                        <input type="email" placeholder="Enter your email" />
-                        <button type="submit">Subscribe</button>
+                        <input type="email" className="email-form" placeholder="Enter a valid email address" />
+                        <button type="submit" className="button-form">SUBMIT</button>
                     </form>
                 </div>
             </div>

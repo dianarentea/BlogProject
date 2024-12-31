@@ -1,0 +1,31 @@
+.newsletter-container{
+    background-color: rgb(245, 245, 245);
+}
+.newsletter-container h1{
+    font-family: "Georgia";
+}
+.text-container{
+    padding-top: 50px;
+    margin: 50px;
+}
+.text-container p{
+   padding-right: 150px;
+}
+.email-form{
+    width: 60%;
+    height: 50px;
+    margin: 50px;
+    margin-top: 0px;
+    border-color: white;
+    border-radius: 2px;
+}
+.button-form{
+    width: 10%;
+    height: 48px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    font-family: "Georgia";
+    letter-spacing: 2px;
+    border-radius: 5px;
+}

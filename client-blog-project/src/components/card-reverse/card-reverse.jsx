@@ -4,17 +4,17 @@ import mountainImage from "../../assets/card/c2.jpg";
 
 
 
-const CardReverse = () => {
+const CardReverse = ({title, description, image}) => {
     return (
         <div className="card-reverse"> 
 
             <div className="card-text-reverse">
-            <h2>Mountains</h2>
-            <p>Mountains are the beginning and the end of all natural scenery.</p>
+            <h2>{description}</h2>
+            <p>{title}</p>
             </div>
 
             <div className="card-image-reverse">
-            <img src={mountainImage} alt="Mountain"/>
+            <img src={image} alt="Mountain"/>
             </div>
             
         </div>

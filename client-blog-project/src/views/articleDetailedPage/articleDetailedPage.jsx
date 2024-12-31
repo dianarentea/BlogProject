@@ -6,7 +6,7 @@ import "./articleDetailedPage.css";
 
 const ArticleDetailedPage = () => {
 
-    const { id } = useParams();
+    const { id } = useParams(); //extract the id from the URL
     const [article, setArticle] = useState(null);
 
     useEffect(() => {
