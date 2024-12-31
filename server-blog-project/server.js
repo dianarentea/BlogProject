@@ -20,6 +20,25 @@ app.get("/articles", (req, res) => {
   });
 });
 
+app.get("/articles/:id", (req, res) => {
+  const articleId = parseInt(req.params.id, 10);
+
+  fs.readFile("./data/articles.json", (err, data) => {
+    if (err) {
+      res.status(500).send("An error occurred while reading articles file");
+    } else {
+      const articles = JSON.parse(data);
+      const article = articles.find((article) => article.id === articleId);
+
+      if (article) {
+        res.send(article);
+      } else {
+        res.status(404).send("Article not found");
+      }
+    }
+  });
+});
+
 app.get("/mountains", (req, res) => {
   fs.readFile("./data/mountains.json", (err, data) => {
     if (err) {

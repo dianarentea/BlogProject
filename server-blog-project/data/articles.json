@@ -1,39 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Munții Bucegi",
-        "subtitle": "Răsărit de soare la Refugiul Țigănești",
+        "title": "Furtuna in Piatra Craiului",
+        "subtitle": "O experiență de neuitat în mijlocul naturii",
         "author": "Diana Rențea",
         "date" : "Oct-29-2024",
         "image" : "/assets/images/f1.jpg",
-        "content": "Răsăriturile de soare de la Refugiul Țigănești oferă o experiență de neuitat, un spectacol al naturii care îți taie respirația. În primele ore ale dimineții, când soarele își face timid apariția de după crestele Munților Bucegi, întreaga vale este scăldată într-o lumină caldă și aurie. Norii care plutesc jos în depărtare se colorează în nuanțe de roz, portocaliu și violet, creând un peisaj aproape suprarealist. "
+        "content" : "Deseori de intampla sa-ti planuiesti o drumetie, te uiti pe prognoza meteo si vezi ca va fi soare si cer senin. Asa ca iti faci bagajul, iti iei rucsacul si pleci la drum. Insa, uneori, lucrurile nu merg intotdeauna asa cum ti-ai planuit. Acest lucru l-am invatat si eu intr-o zi de toamna, cand am hotarat sa fac o drumetie in Muntii Piatra Craiului. A fost o experienta de neuitat, care m-a invatat multe despre natura si despre mine insami. A fost o zi in care am simtit puterea naturii si am invatat sa respect si sa apreciez frumusetea ei ",
+        "fullContent": "Deseori de intampla sa-ti planuiesti o drumetie, te uiti pe prognoza meteo si vezi ca va fi soare si cer senin. Asa ca iti faci bagajul, iti iei rucsacul si pleci la drum. Insa, uneori, lucrurile nu merg intotdeauna asa cum ti-ai planuit. Acest lucru l-am invatat si eu intr-o zi de toamna, cand am hotarat sa fac o drumetie in Muntii Piatra Craiului. A fost o experienta de neuitat, care m-a invatat multe despre natura si despre mine insami. A fost o zi in care am simtit puterea naturii si am invatat sa respect si sa apreciez frumusetea ei. Cu gandul de a urca pe creasta la Vf. La Om, am plecat hotarati inca de la primele ore ale diminetii. Am ajuns la Refugiul Spirlea de unde pana la intersectia unde incepea urcarea spre varf mai aveam de mers cam 10-15 minute. Vremea deja incepea sa se schimbe, nori grei si negri se vedeau in zare spre Vf. Papusa. Am asteptat putin la refugiu ca sa vedem in ce directie se indreapta norii, insa nici de cum nu in partea opusa. Stiam cu totii ce inseamna aceasta si anume ca Vf. La Om avea sa fie lasat pentru alta data deorece riscul era mult prea mare pentru a ursca si a fi prinsi in mijlocul furturnii tocmai pe creasta. Sansele sa trazneasca pe varful unui munte sunt extrem de mari si nu avea niciun rost sa ne asumam un asemenea risc. Astfel am decis impreuna cu cei din grup ca cel mai bine ar fi sa ne continuma traseul pe sub creasta unde aveam de vazut cateva privelsti si atractii, precum Cerdacul Stanciului, Pestera Stanciului, Grohotisul Mare. Ne-am continuat drumul iar in intersectia unde era traseul spre creasta, noi am facut mai departe dreapta pe traseul de sub creasta."
     },
     {
         "id": 2,
-        "title": "Piatra Craiului",
-        "subtitle": "Trasee spectaculoase și aventuri de neuitat",
+        "title": "Rasarit de soare in Muntii Bucegi",
+        "subtitle": "Privelstiti ce merita vazute macar o data in viata",
         "author": "Ioana Popescu",
         "date" : "Jul-5-2024",
         "image" : "/assets/images/f2.jpg",
-        "content": "Muntii Piatra Craiului oferă priveliști spectaculoase, trasee spectaculoase și aventuri de neuitat. Aici, natura este într-o simbioză perfectă cu omul, iar peisajele sunt de-a dreptul spectaculoase. În fiecare an, mii de turiști vin aici pentru a se bucura de frumusețea acestor locuri și pentru a se aventura pe traseele montane care le străbat."
-    },
-    {
-        "id": 3,
-        "title": "Munții Făgăraș",
-        "subtitle": "Trasee montane pentru toate nivelurile de experienta si conditie fizica. ",
-        "author": "Andrei Ionescu",
-        "date" : "Aug-12-2023",
-        "image" : "/assets/images/f3.jpg",
-        "content": "Munții Făgăraș sunt cunoscuți pentru traseele montane spectaculoase, care oferă peisaje deosebite și oportunități de aventură pentru toate nivelurile de experiență și condiție fizică. Aici, turiștii pot alege dintr-o varietate de trasee, de la cele ușoare, care se pot parcurge într-o zi, până la cele mai dificile, care necesită mai multe zile de mers pe jos."
-    },
-    {
-        "id": 4,
-        "title": "Munții Ciucas",
-        "subtitle": "Peisaje de basm și aventuri de neuitat",
-        "author": "Maria Popa",
-        "date" : "Jun-20-2023",
-        "image" : "/assets/images/f4.jpg",
-        "content" : "Muntii Ciucas sunt cunoscuți pentru peisajele lor de basm și aventurile de neuitat pe care le oferă. Aici, turiștii pot explora trasee montane spectaculoase, pot admira flora și fauna bogată a zonei și se pot bucura de priveliști deosebite. Munții Ciucas sunt un loc perfect pentru cei care doresc să se relaxeze în natură și să se bucure de frumusețea peisajelor montane."
-
+        "content" : "Unul din cele mai spectaculoase momente de pe munte este rasaritul de soare. Acesta este un moment magic, care iti taie respiratia. Am ales sa plecam impreuna cu grupul din care am facut parte, dimineata la ora 3 pentru a ajunge inainte de ora 7 si a vedea rasaritul de soare de pe traseul spre Vf. Bucsoiu ca mai apoi sa ne continuam drumul spre Vf. Omu. Am plecat la ora 3.10 de la Cabana Gura Diham. Ne-am luat o mica marja de eroare, stiinda ca in 3 ore ar trebui deja sa fim deasupra padurii si sa putem vedea rasaritul de soare. Am avut un ritm " ,
+        "fullContent" : "Unul din cele mai spectaculoase momente de pe munte este rasaritul de soare. Acesta este un moment magic, care iti taie respiratia. Am ales sa plecam impreuna cu grupul din care am facut parte, dimineata la ora 3 pentru a ajunge inainte de ora 7 si a vedea rasaritul de soare de pe traseul spre Vf. Bucsoiu ca mai apoi sa ne continuam drumul spre Vf. Omu. Am plecat la ora 3.10 de la Cabana Gura Diham. Ne-am luat o mica marja de eroare, stiinda ca in 3 ore ar trebui deja sa fim deasupra padurii si sa putem vedea rasaritul de soare. Am avut un ritm bun, dupa 2 ore deja eram la bifurcatia spre Brana Caprelor pe langa care urma sa trecem. Am continuat urcarea si cand incepuse sa se lumineze in jur de ora 6, noi deja eram mai sus fata de padure, asa ca orice ar fi fost stiam ca urma sa vedem un rasarit pe cinste. Vremea a tinut cu noi fiindca a fost senin, aerul era putin rece, insa avand in vedere traseul putin solicitant pe care il aveam de parcurs nu am simtit racoarea diminetii. Am marit putin ritmul ca sa reusim sa ajungem pe primul platou din ascensiune. Chiar cand stiam ca urmeaza sa rasara soarele, cu 10 minute inainte, ne-am oprit, ne-am luat hainele pe noi si am privit cu totii fimul oferit de natura. Este un moment unic sa vezi acele culori, pur si simplu cum soarele incepe sa se ridice deasupra orizontului si sa coloreze cerul in nuante de rosu, portocaliu si galben. Este un moment care iti taie respiratia si iti umple sufletul de bucurie si recunostinta fata de frumusetea naturii. Iti dai seama ca deja ai totul si ca nimic altceva nu iti poate incalzi sufeltul mai mult ca un rasarit de soare in mijlocul naturii. Deja si uitasem de trezitul devreme, nici nu ne mai era somn, totul a meritat!"    
     }
 ]

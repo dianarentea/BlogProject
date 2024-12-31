@@ -1,2 +1,3 @@
 **/node_modules
 .vscode
+clinet-blog-project/node_modules/.cache/
