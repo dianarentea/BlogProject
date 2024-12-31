@@ -1,7 +1,8 @@
 import React, {useState, useEffect}from "react";
+import { Link } from "react-router-dom";
 import "./article.css";
 
-const Article = ({ title, subtitle, author, date, image, content }) => {
+const Article = ({ id, title, subtitle, author, date, image, content }) => {
     return (
         <div className="article-container">
 
@@ -18,7 +19,10 @@ const Article = ({ title, subtitle, author, date, image, content }) => {
                     {author}, {date}
                 </div>
                 <div className='article-content'>
-                    <p>{content}</p>
+                    <p>{content} </p>
+                    <Link to={`/article/${id}`}>
+                        <span>Read more...</span>
+                    </Link>
                     <br/><br/>
                 </div>
             </div>
@@ -48,6 +52,7 @@ const ArticleList = () => {
           {articles.map((article, index) => (
             <Article
               key={index}
+              id={article.id}
               title={article.title}
               subtitle={article.subtitle}
               author={article.author}
