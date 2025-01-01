@@ -1,0 +1,15 @@
+.title h1{
+  font-size: 35px;
+  padding-top: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Georgia;
+  margin-bottom: 50px;
+}
+.countryside-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  margin-left: 0;
+}

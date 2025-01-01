@@ -11,26 +11,21 @@ const Footer = () => {
                         data-mdb-ripple-init
                         className="btn text-white btn-floating m-1"
                         style={{ backgroundColor: '#3b5998' }}
-                        href="#!"
+                        href="https://www.facebook.com/share/c2ShLPRTZqgB6FKo/?mibextid=wwXIfr"
+                        target="_blank" 
+                        rel="noopener noreferrer"  
                         role="button"
                     >
                         <i className="fab fa-facebook-f"></i>
                     </a>       
-                    <a
-                        data-mdb-ripple-init
-                        className="btn text-white btn-floating m-1"
-                        style={{ backgroundColor: '#dd4b39' }}
-                        href="#!"
-                        role="button"
-                    >
-                        <i className="fab fa-google"></i>
-                    </a>
 
                     <a
                         data-mdb-ripple-init
                         className="btn text-white btn-floating m-1"
                         style={{ backgroundColor: '#ac2bac' }}
-                        href="#!"
+                        href="https://www.instagram.com/diana.rentea/profilecard/?igsh=MW9yZnVka3BnNnhldA=="
+                        target="_blank" 
+                        rel="noopener noreferrer"  
                         role="button"
                     >
                         <i className="fab fa-instagram"></i>
@@ -40,7 +35,9 @@ const Footer = () => {
                         data-mdb-ripple-init
                         className="btn text-white btn-floating m-1"
                         style={{ backgroundColor: '#0082ca' }}
-                        href="#!"
+                        href="https://www.linkedin.com/in/diana-andreea-ren%C8%9Bea-613107255"
+                        target="_blank" 
+                        rel="noopener noreferrer"  
                         role="button"
                     >
                         <i className="fab fa-linkedin-in"></i>

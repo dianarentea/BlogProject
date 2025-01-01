@@ -6,6 +6,7 @@ const Article = ({ id, title, subtitle, author, date, image, content }) => {
     return (
         <div className="article-container">
 
+        <div className='article-header'>
             <div className='article-image'>
                 <img src={image} alt='article' />
             </div>
@@ -18,15 +19,16 @@ const Article = ({ id, title, subtitle, author, date, image, content }) => {
                 <div className='article-author'>
                     {author}, {date}
                 </div>
-                <div className='article-content'>
-                    <p>{content} </p>
-                    <Link to={`/article/${id}`}>
-                        <span>Read more...</span>
-                    </Link>
-                    <br/><br/>
-                </div>
+            </div>
+            <div className='article-content'>
+                <p>{content} </p>
+                <Link to={`/article/${id}`} className="read-more">
+                    <span>Read more...</span>
+                </Link>
+                <br/><br/>
             </div>
         </div>
+    </div>
 
     );
 };

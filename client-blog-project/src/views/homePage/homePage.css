@@ -1,14 +1,7 @@
 .container{
   padding-top: 30px;
 }
-.slideshow-container {
-  margin: 20px auto;
-  max-width: 1200px;
-  height: 250px;
-  border: 1px solid #ddd;
-  border-radius: 2px;
-  overflow: hidden;
-}
+
 .title p{
   text-align: center;
   font-family: Lucida Sans;

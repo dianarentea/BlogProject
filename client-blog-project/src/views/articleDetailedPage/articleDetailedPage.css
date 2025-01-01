@@ -53,22 +53,17 @@
     font-family: Georgia;
 }
 
-.article-content span{
-    margin-right: 100px;
-    float: right;
-}
-
 @media (max-width: 768px) {
     .article-container {
-        flex-direction: column; /* Rearanjează elementele pe verticală pentru ecrane mici */
+        flex-direction: column; 
     }
 
     .article-image {
-        width: 100%; /* Imaginea va ocupa lățimea completă */
+        width: 100%; 
         height: auto;
     }
 
     .article-text {
-        width: 100%; /* Textul se aliniază complet sub imagine */
+        width: 100%; 
     }
 }

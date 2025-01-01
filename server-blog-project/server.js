@@ -81,6 +81,17 @@ app.get("/mountains", (req, res) => {
     }
   });
 });
+
+app.get("/countryside", (req, res) => {
+  fs.readFile("./data/countryside.json", (err, data) => {
+    if (err) {
+      res.status(500).send("An error occurred while reading countryside file");
+    } else {
+      const countryside = JSON.parse(data);
+      res.send(countryside);
+    }
+  });
+});
   
 app.listen(5000, () => {
   console.log(`Server listening on ${5000}`);

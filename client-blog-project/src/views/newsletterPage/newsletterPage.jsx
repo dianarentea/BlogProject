@@ -18,7 +18,7 @@ const NewsletterPage = () => {
                     </div>
                     <form>
                         <input type="email" className="email-form" placeholder="Enter a valid email address" />
-                        <button type="submit" className="button-form">SUBMIT</button>
+                        <button type="submit" className="button1-form">SUBMIT</button>
                     </form>
                 </div>
             </div>

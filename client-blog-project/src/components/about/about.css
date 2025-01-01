@@ -1,7 +1,7 @@
 .container{
     flex-wrap: wrap;
     gap: 20px; 
-    width: 90%;
+    width: 95%;
     flex-direction: row;
 }
 .about-title h1{
@@ -30,7 +30,7 @@
     color: #6a7985;
     font-weight: bold;
     font-style: italic;
-    padding-top: 5px;
+    padding-top: 20px;
 }
 p{
     line-height: 2;

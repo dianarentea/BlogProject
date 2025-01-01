@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "The landscapes from EcoTrails in Moieciu de Sus",
+        "subtitle": "An easy track with a lot of views",
+        "author": "Andreea Marin",
+        "date" : "Oct-13-2024",
+        "image" : "/assets/images/f7.jpg",
+        "content" : "The EcoTrails between Bucegi Mountains and Piatra Craiului Mountains are a great way to explore the beauty of the Carpathians. The trails are well-marked and easy to follow, making them perfect for hikers of all levels. The landscapes along the way are breathtaking, with stunning views of the mountains, forests, and valleys. The trails are also home to a variety of wildlife, including bears, wolves, and lynx. If you're lucky, you may even spot some of these animals during your hike. The EcoTrails are a must-visit for anyone who loves nature and wants to experience the beauty of the Carpathians. They are pretty accesible to anyone, cause they follow the hills of Moieciu de Sus area."
+    },
+    {
+        "id": 2,    
+        "title": "Short trip to Sirnea and ostrich farm",
+        "subtitle": "A hidden place where you can't imagine how many people live there",
+        "author" : "Mihaela Popescu",
+        "date" : "Aug-04-2024",
+        "image" : "/assets/images/f8.jpg",
+        "content": "After you pass by Moieciu de Jos, continue on the road and sudden you see a little road going on the right. You think that maybe you missed the right road but no, you enter in another world. You go 10 minutes between the hills and sudden you start to see beautiful small houses with well organized and green gardens, people doing their work outside and enjoying the sun. Then on the left side you see a bigger house compared to all others and there you are, at ostrich farm. With warm and kindness people welcome you and show the farm. You can see the ostriches, but beside this also much more animals, like alpacas, goats, ducks and many more. You can buy some souvenirs from the shop and also some fresh eggs. The place is so peaceful and you can feel the nature in its purest form."
+    }
+   
+]

@@ -30,7 +30,7 @@ const HomePage = () => {
               <CardReverse title="Greg Child" description="'Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.'" image={mountainImage3} />    
             </div>
             <div className="col">
-              <Card title="Reinhold Messner" description="'Mountains are not unfair, they are just dangerous'" image={mountainImage2}/>
+              <Card title="Reinhold Messner" description="'Mountains are not unfair, they are just dangerous.'" image={mountainImage2}/>
             </div>
           </div>
         </div>

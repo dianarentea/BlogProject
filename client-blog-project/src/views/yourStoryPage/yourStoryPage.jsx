@@ -66,7 +66,7 @@ const YourStoryPage = () => {
                        <div className="text-container">
                        <h1>Everyone has a story to tell...</h1>
                         <p>If you reached this blog, for sure you've already had a trip or you plan one!</p>
-                        <p>No matter how short was your hicking, we all know that you saw beautiful views or places. So, let us to know what are your impressions and why we must see the place you visited!</p>
+                        <p>No matter how short was your hiking, we all know that you saw beautiful views or places. So, let us to know what are your impressions and why we must see the place you visited!</p>
                         <p>Below you have a form where you can write your story and add some pictures from the trip. We're gonna let your story untouched - we may correct the missed letters - and let the others to see your <span>authentic story.</span></p>
                        </div>
                        <form onSubmit={handleSubmit}>

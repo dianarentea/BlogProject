@@ -19,13 +19,15 @@
     border-color: white;
     border-radius: 2px;
 }
-.button-form{
-    width: 10%;
-    height: 48px;
-    background-color: black;
+.button1-form{
+    padding: 10px 20px;
+    background-color: #5c6bc0;
     color: white;
-    border-color: black;
-    font-family: "Georgia";
-    letter-spacing: 2px;
+    border: none;
     border-radius: 5px;
+    cursor: pointer;
+    position: center;
+    margin: 50px;
+    margin-left: 50px;
+    height: 50px;
 }
