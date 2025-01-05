@@ -20,7 +20,7 @@ const Navbar = () => {
             <a href="/articlesByMe">By me</a>
           </div>
         </div>  */}
-        <a href="/about">About</a>
+        <a href="/about">About me</a>
         <a href="/newsletter">Newsletter</a>
         <a href="/yourStory">Your story</a>
       </div>
