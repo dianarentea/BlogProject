@@ -6,11 +6,13 @@ Blog website to stay up to date with the last stories from mountain trips.
  1. Copy the repo link local
  2. Open the project in Visual Studio Code
  3. From menu bar -> Terminal -> NewTerminal
- 4. cd server-blog-project 
- 5. npm start - this will start the server which will run on localhost:5000
- 6. Open another terminal from menu bar
- 7. cd client-blog-roject
- 8. npm start - this will start the client which will run on localhost:3000
+ 4. cd server-blog-project
+ 5. npm install - this will install all dependencies and packages
+ 6. npm start - this will start the server which will run on localhost:5000
+ 7. Open another terminal from menu bar
+ 8. cd client-blog-roject
+ 9. npm install - this will install all dependencies and packages
+10. npm start - this will start the client which will run on localhost:3000
 ```
 ## Project arhitecture
 The project is built on the server-client concept. 
